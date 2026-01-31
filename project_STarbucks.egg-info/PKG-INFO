@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: project_STarbucks
+Version: 1.0.0
+Summary: A/B Testing Project for Starbucks
+Author: Sweta KUmari
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: jupyter
+Requires-Dist: sqlalchemy
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

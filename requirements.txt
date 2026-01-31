@@ -1,0 +1,10 @@
+# Core libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# For data handling
+sqlalchemy

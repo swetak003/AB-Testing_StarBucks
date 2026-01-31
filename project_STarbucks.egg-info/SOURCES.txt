@@ -1,0 +1,7 @@
+setup.py
+project_STarbucks.egg-info/PKG-INFO
+project_STarbucks.egg-info/SOURCES.txt
+project_STarbucks.egg-info/dependency_links.txt
+project_STarbucks.egg-info/requires.txt
+project_STarbucks.egg-info/top_level.txt
+src/__init__.py
