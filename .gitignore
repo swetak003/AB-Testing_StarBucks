@@ -1,0 +1,53 @@
+# =========================
+# Python virtual environment
+# =========================
+venv/
+.env/
+
+# =========================
+# Python cache & compiled files
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Jupyter Notebook checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code settings
+# =========================
+.vscode/
+
+# =========================
+# Data files (keep raw data out of git if large/sensitive)
+# =========================
+data/raw/
+data/processed/
+
+# =========================
+# Output files
+# =========================
+outputs/
+*.csv
+*.xlsx
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/   
+# =========================
+# Environment files     
+
+
+
